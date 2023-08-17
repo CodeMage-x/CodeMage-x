@@ -55,7 +55,7 @@
 <hr>
 <h2 dir="auto">Stat</h2>
   <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=CodeMage-x&theme=vue)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMage-x&theme=cobalt&hide_border=true"/></a>
   </p>
 
 
